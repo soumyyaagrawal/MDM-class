@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="color:blue; text-align:center; font-family: Arial, sans-serif;">This is a heading</h1>
+    <p style="font-size:18px; text-align:center; font-family: 'Courier New', Courier, monospace, sans-serif;">This is a paragraph.</p> 
+<table style="border:2px solid black; font-family: 'Courier New', Courier, monospace, sans-serif; width: 50%; margin: auto; border-collapse: collapse;">
+    <tr style="background-color:lightgray; text-align: center;">
+        <th>name</th>
+        <th>age</th>
+    </tr>
+    <tr style="border: 2px solid black; text-align: center; ">
+        <td>Alice</td>
+        <td>30</td>
+      
+    </tr>
+
+    <tr style="border: 2px solid black; text-align: center;">
+          <td>Soumya</td>
+        <td>25</td>
+    </tr>
+</table>
+<br>
+
+
+<div style="height:500px; width:700px; border: pink solid 4px; position: relative;">
+<p style="position: absolute; top: 0; left: 25px; height: 100px; width: 100px; border: greenyellow solid 2px">Some content here</p>
+<p style="position: absolute; top: 0; left: 150px; height: 100px; width: 400px; border: rgb(109, 153, 230) solid 2px; text-align: center;">Some content here</p>
+</div>
+
+
+</body>
+</html>
